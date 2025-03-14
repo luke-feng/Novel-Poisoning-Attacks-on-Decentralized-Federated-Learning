@@ -1,6 +1,6 @@
 # Novel-Poisoning-Attacks-on-Decentralized-Federated-Learning
 
-This master’s project report explores the design and prototypical implementation of model
+This project report explores the design and prototypical implementation of model
 poisoning attacks in Distributed Federated Learning (DFL) systems. Federated Learn-
 ing is a distributed machine learning framework that enables multiple data owners to
 collaboratively train models without sharing their private data. However, this system is
